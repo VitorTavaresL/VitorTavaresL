@@ -6,7 +6,7 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
 
 <div align="center">
     <a href="https://github.com/VitorTavaresL">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresL&layout=compact&langs_count=8&theme=radical" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorTavaresL&repo=github-readme-stats" />
     </a>
 </div>
 
