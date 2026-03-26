@@ -5,8 +5,8 @@
 I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently pursuing a bachelor’s degree while building experience as a Full-Stack developer. I work with C, Java, PHP, and JavaScript, focusing on designing and developing scalable web applications across both front-end and back-end environments.  My goal is to grow my career in software development and later specialize in DevSecOps, combining development, security, and operations to build more secure and reliable systems. I’m always eager to learn new technologies and continuously expand my skills.
 
 <div align="center">
-    <a href="https://github.com/SincooV">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SincooV&layout=compact&langs_count=8&theme=radical" />
+    <a href="https://github.com/VitorTavaresL">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresL&layout=compact&langs_count=8&theme=radical" />
     </a>
 </div>
 
@@ -75,7 +75,7 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
     <a href="https://medium.com/@Sincoo" target="_blank">
         <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
     </a>
-    <a href="https://dev.to/sincoov" target="_blank">
+    <a href="https://dev.to/VitorTavaresL" target="_blank">
         <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
     </a>
     <a href="https://stackoverflow.com/users/29830289/vitor-tavares?tab=profile" target="_blank">
@@ -91,12 +91,12 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
 ### 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SincooV&theme=radical&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorTavaresL&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
-    <a href="https://github.com/SincooV">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SincooV&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+    <a href="https://github.com/VitorTavaresL">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTavaresLV&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
     </a>
 </div>
 
@@ -111,5 +111,5 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
 ## 📫 How to Reach Me
 
 - **Email**: [vitor.tavares.leite@gmail.com](mailto:vitor.tavares.leite@gmail.com)
-- **Discord**: sincoov
+- **Discord**: cincao_
 ---
