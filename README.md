@@ -6,7 +6,7 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
 
 <div align="center">
     <a href="https://github.com/VitorTavaresL">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorTavaresL&repo=github-readme-stats" />
+       <img align="center" src="https://github-readme-stats-ecru-psi-10.vercel.app/api/?username=VitorTavaresL" />
     </a>
 </div>
 
@@ -93,12 +93,11 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
 ### 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorTavaresL&theme=radical&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorTavaresL&hide_border=false" />
 </div>
 
 <div align="center">
     <a href="https://github.com/VitorTavaresL">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTavaresLV&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
     </a>
 </div>
 
