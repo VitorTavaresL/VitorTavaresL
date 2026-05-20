@@ -22,8 +22,8 @@ I’m Full-Stack Developer at <a href="powerbizz.ai">Powerbizz.ai</a> currently 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=go)
-![Ruby](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=ruby)
+![Go](https://img.shields.io/badge/Go-%23323330?style=for-the-badge&logo=Go)
+![Ruby](https://img.shields.io/badge/ruby-%23323330?style=for-the-badge&logo=ruby&logoColor=red)
 
 ### Frameworks & Libraries
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
