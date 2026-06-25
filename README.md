@@ -50,7 +50,7 @@ Open source enthusiast. Standard library maximalist. Always breaking something t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ecru-psi-10.vercel.app/api/?username=VitorTavaresL&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresL&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorTavaresL&hide_border=true" alt="GitHub streak" />
 </div>
 
