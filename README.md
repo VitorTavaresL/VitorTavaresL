@@ -2,7 +2,7 @@
 
 Full-stack developer at [Powerbizz.ai](https://powerbizz.ai) and cybersecurity student at **PUC Campinas**. I build things across the stack — Go is my main language, but I'm comfortable with whatever gets the job done. Currently working toward a career in **DevSecOps**: shipping secure, reliable systems without the overhead nobody asked for.
 
-Open source enthusiast. Standard library maximalist. Always breaking something to understand how it works.
+Open source enthusiast. Always breaking something to understand how it works.
 
 ---
 
