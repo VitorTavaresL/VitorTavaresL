@@ -6,7 +6,7 @@ Open source enthusiast. Always breaking something to understand how it works.
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 ### Languages
 
@@ -48,7 +48,7 @@ Open source enthusiast. Always breaking something to understand how it works.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresL&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
@@ -60,13 +60,13 @@ Open source enthusiast. Always breaking something to understand how it works.
 
 ---
 
-## 🌐 Find Me
+## 🔗 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-tavares-398481331/)
 
 ---
 
-## 📫 Contact
+## ✉️ Contact
 
 - **Email**: [vitor.tavares.leite@gmail.com](mailto:vitor.tavares.leite@gmail.com)
 - **Discord**: `cincao_`
