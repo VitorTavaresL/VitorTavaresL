@@ -56,6 +56,10 @@ Open source enthusiast. Standard library maximalist. Always breaking something t
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/VitorTavaresL/VitorTavaresL/main/dist/snake-dark.svg)
+
+---
+
 ## 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-tavares-398481331/)
